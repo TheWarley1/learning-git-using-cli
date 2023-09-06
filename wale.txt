@@ -1,0 +1,1 @@
+hi, my name is wale and i'm currently learning how to use git on the terminal.ls
